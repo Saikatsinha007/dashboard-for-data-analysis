@@ -1,14 +1,6 @@
 # Dashboard-for-data-analysis
 ![Screenshot 2024-08-16 030952](https://github.com/user-attachments/assets/0de27932-8278-4851-981b-236331f68495)
 
-![Screenshot 2024-08-16 030943](https://github.com/user-attachments/assets/b2a4147d-4454-4e39-bda8-35c4f2c89bd5)
-
-![Screenshot 2024-08-16 030933](https://github.com/user-attachments/assets/ce3fa1cc-fb78-43d4-8d50-4ec822c1e9e3)
-
-![Screenshot 2024-08-16 030924](https://github.com/user-attachments/assets/38365de5-5f52-47e0-a953-1aebdc0916a1)
-
-![Screenshot 2024-08-16 031002](https://github.com/user-attachments/assets/496fc318-69be-4e63-b63f-f5afcb3d4f2d)
-
 
 Certainly! Here’s a description of your project that you can use for a GitHub repository, including sections like the project overview, features, setup instructions, and how others can contribute.
 
