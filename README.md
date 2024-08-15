@@ -2,10 +2,6 @@
 ![Screenshot 2024-08-16 030952](https://github.com/user-attachments/assets/0de27932-8278-4851-981b-236331f68495)
 
 
-Certainly! Here’s a description of your project that you can use for a GitHub repository, including sections like the project overview, features, setup instructions, and how others can contribute.
-
----
-
 ## Customer Churn Dashboard
 
 ### Overview
